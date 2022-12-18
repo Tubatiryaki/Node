@@ -1,0 +1,25 @@
+{
+  "name": "tuba-tiryaki",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tuba": "echo 'Benim adım tuba'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Tuba Tiryaki",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/Tubatiryaki/Node.git"
+  }
+}
